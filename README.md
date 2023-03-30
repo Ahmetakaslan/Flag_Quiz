@@ -6,8 +6,6 @@ Flutter & Dart
 <img src="https://user-images.githubusercontent.com/95686166/228309111-c150accf-2ece-4dda-ae18-50eb1545e72e.png" width="350" height="700">
 <img src="https://user-images.githubusercontent.com/95686166/228309047-9fbcbd03-d3c7-4b67-82a4-6b051d51f46b.png" width="350" height="700">
 <img src="https://user-images.githubusercontent.com/95686166/228309057-52731650-cdeb-408f-9a1d-4d5549ad5f28.png" width="350" height="700">
-
-
 <img src="https://user-images.githubusercontent.com/95686166/228310244-f4148a07-84ef-4860-a637-c2cc397b1fef.png" width="350" height="700">
 <img src="https://user-images.githubusercontent.com/95686166/228310259-7f1029ab-44b4-42f1-9ac4-2f937a8c7521.png" width="350" height="700">
 
